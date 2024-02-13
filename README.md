@@ -1,1 +1,1 @@
-<p> Welcome new people!</p>
+<send> Welcome everyone!
