@@ -1,1 +1,1 @@
-<p> Welcome new people!</p>
+<p> Have a great time here! </p>
